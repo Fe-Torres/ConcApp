@@ -9,11 +9,10 @@ Node.js
 
 Express
 
-ExpressJs
-
 Nodemon
 
 Cors
+
 
 **💪 Projeto**
 
