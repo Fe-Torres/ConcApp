@@ -1,6 +1,7 @@
-#ConcApp
+**ConcApp**
 
-🚀 Tecnologias usadas
+
+ **🚀 Tecnologias usadas**
 
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -14,7 +15,7 @@ Nodemon
 
 Cors
 
-💪 Projeto
+**💪 Projeto**
 
 ConcApp é uma rede social para concurseiros, permitindo-os a troca de informação sobre os
 estudos e, principalmente, a motivação mútua entre eles. Tudo isso com posts
